@@ -21,7 +21,6 @@ int Factorial(int n)
 
 }
 
-#if 0
 int main()
 {
 	int n;
@@ -32,4 +31,4 @@ int main()
 
 
 }
-#endif
+

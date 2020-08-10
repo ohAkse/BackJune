@@ -2,7 +2,7 @@
 
 using namespace std;
 
-#if 0
+
 int main()
 {
 	int n, i, j, z;
@@ -32,4 +32,3 @@ int main()
 
 
 }
-#endif

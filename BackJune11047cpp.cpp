@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-#if 0
+
 int main()
 {
 	int n, k; // n은 종류, k는 액수
@@ -35,4 +35,3 @@ return -1;
 	cout << Result;
 
 }
-#endif

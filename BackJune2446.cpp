@@ -3,7 +3,7 @@
 
 #include <iostream>
 using namespace std;
-#if 0
+
 int main()
 {
     int n = 0;
@@ -14,7 +14,7 @@ int main()
     int nBlank = -1;
     int nCountOfStars = nMax;
     int mid = nMax / 2;
-    //--1번째 라인부터 1개까지 라인단위로 찍기---//
+  
     for (i = 0; i <= mid; i++)
     {
         for (j = 0; j < nCountOfStars; j++)
@@ -59,7 +59,6 @@ int main()
 
 }
 
-#endif
 
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴

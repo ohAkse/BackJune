@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-#if 0
+
 int main()
 {
 	int a, b, c, d, e;
@@ -66,4 +66,3 @@ int main()
 
 
 }
-#endif

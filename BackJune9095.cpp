@@ -1,12 +1,8 @@
+//1)
 #include <iostream>
-
-#include <algorithm>
-
-
 
 using namespace std;
 
-#if 0
 int main(int argc, const char* argv[]) {
 
 
@@ -47,6 +43,10 @@ int main(int argc, const char* argv[]) {
     return 0;
 
 }
+//------------DP solution--------------//
+
+//2)
+//#include <iostream>
 
 int cnt = 0;
 int Add(int nStart, int nTarget)
@@ -93,4 +93,4 @@ int main()
     }
     return 0;
 }
-#endif
+//-------------Recursive Solution-------------------//

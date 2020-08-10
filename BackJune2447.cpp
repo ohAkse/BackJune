@@ -3,7 +3,6 @@
 using namespace std;
 
 
-
 char arr[3000][3000];
 
 void InitArray()
@@ -53,12 +52,8 @@ void Make(int n, int x, int y)
 
 	}
 
-
-
 }
 
-
-#if 0
 
 int main()
 {
@@ -77,8 +72,4 @@ int main()
 
 	}
 
-
-
-
 }
-#endif
